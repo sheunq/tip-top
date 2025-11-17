@@ -1,3 +1,4 @@
+
 import type { Doctor, Service, Testimonial, Post } from '@/lib/types';
 import {
   Stethoscope,
@@ -61,14 +62,15 @@ export const doctors: Doctor[] = [
 
 export const services: Service[] = [
   { name: 'Pregnancy & Delivery', description: 'Comprehensive maternity care from conception through delivery.', icon: HeartHandshake },
-  { name: 'Babies & Children Care', description: 'Specialized pediatric services for your little ones.', icon: Baby },
+  { name: 'Pediatrics', description: 'Specialized pediatric services for your little ones.', icon: Baby },
   { name: 'Adults & Elderly Care', description: 'Holistic care for adults and seniors, promoting lifelong wellness.', icon: PersonStanding },
   { name: 'Jaundice Babies Care', description: 'Expert diagnosis and treatment for neonatal jaundice.', icon: Sparkles },
   { name: 'Accidents & Emergencies', description: '24/7 emergency services for urgent medical needs.', icon: ShieldAlert },
   { name: 'Surgeries & Operations', description: 'A wide range of surgical procedures performed by expert surgeons.', icon: Scissors },
   { name: 'Optical Services', description: 'Complete eye care, from vision tests to treatment of eye diseases.', icon: Eye },
   { name: 'Dental Services', description: 'Comprehensive dental care for a healthy smile.', icon: Smile },
-  { name: 'Dermatological Care', description: 'Treatment for skin, hair, and nail conditions.', icon: Activity },
+  { name: 'Dermatology', description: 'Treatment for skin, hair, and nail conditions.', icon: Activity },
+  { name: 'Gynecology', description: 'Specialized care for women\'s reproductive health.', icon: HeartPulse },
   { name: 'Family Planning', description: 'Confidential counseling and services for family planning.', icon: Users },
   { name: 'Physiotherapy', description: 'Rehabilitation services to restore movement and function.', icon: Waves },
   { name: 'Ultrasound Scan', description: 'Advanced diagnostic imaging services.', icon: Microscope },
@@ -115,5 +117,5 @@ export const posts: Post[] = [
 ];
 
 export const departments = [
-    "Cardiology", "Neurology", "Pediatrics", "Orthopedics", "General Medicine", "Obstetrics & Gynecology", "Surgery", "Diagnostics"
+    "Cardiology", "Neurology", "Pediatrics", "Orthopedics", "General Medicine", "Obstetrics & Gynecology", "Surgery", "Diagnostics", "Dermatology", "Gynecology"
 ];
