@@ -26,7 +26,7 @@ export default function AboutPage() {
                     <div>
                         <h2 className="text-3xl font-bold font-headline text-primary">Our Story</h2>
                         <p className="mt-4 text-muted-foreground">
-                            Founded in 2010, TIP-TOP SOLUTION HOSPITAL began as a small community clinic with a big vision: to provide accessible, high-quality healthcare to all Nigerians. From our humble beginnings, we have grown into a leading multi-specialty hospital, driven by a passion for excellence and a deep-seated commitment to our patients.
+                            Founded in 2021, TIP-TOP SOLUTION HOSPITAL began as a small community clinic with a big vision: to provide accessible, high-quality healthcare to all Nigerians. From our humble beginnings, we have grown into a leading multi-specialty hospital, driven by a passion for excellence and a deep-seated commitment to our patients.
                         </p>
                         <p className="mt-4 text-muted-foreground">
                             Over the years, we have continuously invested in advanced medical technology and attracted some of the nation's finest medical talent. Our journey is one of growth, innovation, and unwavering dedication to the health and well-being of the communities we serve.
