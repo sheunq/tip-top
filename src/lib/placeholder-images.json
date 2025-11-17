@@ -1,0 +1,106 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-doctors",
+      "description": "A well-equipped hospital examination room.",
+      "imageUrl": "/images/facility1.jpg",
+      "imageHint": "hospital facility"
+    },
+    {
+      "id": "doctor1",
+      "description": "Portrait of a male doctor",
+      "imageUrl": "https://images.unsplash.com/photo-1582750433449-648ed127bb54?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxtYWxlJTIwZG9jdG9yfGVufDB8fHx8MTc2MTgzMTQxMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "male doctor"
+    },
+    {
+      "id": "doctor2",
+      "description": "Portrait of a female doctor",
+      "imageUrl": "https://images.unsplash.com/photo-1638202993928-7267aad84c31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxmZW1hbGUlMjBkb2N0b3J8ZW58MHx8fHwxNzYxODQyMTY1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "female doctor"
+    },
+    {
+      "id": "doctor3",
+      "description": "Portrait of a doctor",
+      "imageUrl": "https://images.unsplash.com/photo-1651008376811-b90baee60c1f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxkb2N0b3IlMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjE4NDQxMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "doctor portrait"
+    },
+    {
+      "id": "doctor4",
+      "description": "Portrait of a surgeon",
+      "imageUrl": "https://images.unsplash.com/photo-1584820927498-cfe5211fd8bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxzdXJnZW9ufGVufDB8fHx8MTc2MTg1OTQ1OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "surgeon"
+    },
+    {
+      "id": "testimonial1",
+      "description": "Happy patient",
+      "imageUrl": "https://images.unsplash.com/photo-1533147670608-2a2f9775d3a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxoYXBweSUyMHBlcnNvbnxlbnwwfHx8fDE3NjE4NjY5MDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "happy person"
+    },
+    {
+      "id": "testimonial2",
+      "description": "Smiling person",
+      "imageUrl": "https://images.unsplash.com/photo-1527980965255-d3b416303d12?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxzbWlsaW5nJTIwcGVyc29ufGVufDB8fHx8MTc2MTgzODk0MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "smiling person"
+    },
+    {
+      "id": "testimonial3",
+      "description": "Content person",
+      "imageUrl": "https://images.unsplash.com/photo-1747995371110-7dfa822073a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjb250ZW50JTIwcGVyc29ufGVufDB8fHx8fDE3NjE4NjcyOTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "content person"
+    },
+    {
+      "id": "blog1",
+      "description": "Healthy food",
+      "imageUrl": "https://images.unsplash.com/photo-1547592180-85f173990554?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxoZWFsdGh5JTIwZm9vZHxlbnwwfHx8fDE3NjE3OTMzNTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "healthy food"
+    },
+    {
+      "id": "blog2",
+      "description": "Person exercising",
+      "imageUrl": "https://images.unsplash.com/photo-1715333153310-9528091f94bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8cGVyc29uJTIwZXhlcmNpc2luZ3xlbnwwfHx8fDE3NjE5MDUxNzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person exercising"
+    },
+    {
+      "id": "blog3",
+      "description": "Medical checkup",
+      "imageUrl": "https://images.unsplash.com/photo-1643264560215-9c2f72485ca1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxtZWRpY2FsJTIwY2hlY2t1cHxlbnwwfHx8fDE3NjE4MjczNTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "medical checkup"
+    },
+    {
+      "id": "about-team",
+      "description": "Group of doctors",
+      "imageUrl": "/images/walk.jpg",
+      "imageHint": "medical team"
+    },
+    {
+      "id": "facilities",
+      "description": "A well-equipped hospital examination room.",
+      "imageUrl": "/images/facility.jpg",
+      "imageHint": "hospital room"
+    },
+    {
+      "id": "core-values",
+      "description": "Digital interface showing core values",
+      "imageUrl": "https://images.unsplash.com/photo-1653549893012-b8b4fbe97630?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjb3JlJTIwdmFsdWVzfGVufDB8fHx8MTc2MzM3NTU4NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "core values"
+    },
+    {
+      "id": "vision",
+      "description": "Digital globe representing vision",
+      "imageUrl": "/images/Vision.png",
+      "imageHint": "vision globe"
+    },
+    {
+      "id": "mission",
+      "description": "Digital interface showing mission",
+      "imageUrl": "/images/mission.png",
+      "imageHint": "mission target"
+    },
+    {
+      "id": "motto",
+      "description": "Digital interface showing motto",
+      "imageUrl": "/images/motto.png",
+      "imageHint": "motto sign"
+    }
+  ]
+}
