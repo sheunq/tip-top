@@ -1,4 +1,6 @@
 import { AppointmentForm } from "@/components/appointment-form";
+import { Skeleton } from "@/components/ui/skeleton";
+import { Suspense } from "react";
 
 export default function BookAppointmentPage() {
     return (
@@ -16,7 +18,9 @@ export default function BookAppointmentPage() {
 
             <div className="container py-12 md:py-16">
                 <div className="max-w-3xl mx-auto">
-                   <AppointmentForm />
+                   <Suspense fallback={<Skeleton className="h-[700px] w-full" />}>
+                        <AppointmentForm />
+                   </Suspense>
                 </div>
             </div>
         </>
