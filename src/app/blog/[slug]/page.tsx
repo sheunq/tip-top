@@ -45,7 +45,7 @@ export default function BlogPostPage({ params }: BlogPostPageProps) {
                             </div>
                             <div className="flex items-center gap-2">
                                 <User className="h-4 w-4" />
-                                <span>By MedConnect Team</span>
+                                <span>By Tip-Top Solution Hospital Team</span>
                             </div>
                         </div>
                     </div>

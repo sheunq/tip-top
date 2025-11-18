@@ -55,7 +55,7 @@ export function Footer() {
               <li>Custom Bus-Stop, 4, Kwaru Way, Off Abaranje Rd</li>
               <li>Emergency: 0806 909 8086</li>
               <li>General: 0806 909 8086</li>
-              <li>tiptopsolutionhospital@gmail.com</li>
+              <li>tiptophospital@gmail.com</li>
             </ul>
           </div>
         </div>

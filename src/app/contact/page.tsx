@@ -64,7 +64,7 @@ export default function ContactPage() {
                                 </CardTitle>
                             </CardHeader>
                             <CardContent className="text-muted-foreground">
-                                <p>tiptopsolutionhospital@gmail.com</p>
+                                <p>tiptophospital@gmail.com</p>
                             </CardContent>
                         </Card>
                     </div>
